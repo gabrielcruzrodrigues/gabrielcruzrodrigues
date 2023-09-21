@@ -1,8 +1,9 @@
 ### Olá, eu sou o Gabriel! 👋
 
-- 🔭 Hoje trabalho como tecnico em TI
-- 🌱 Estudando Java/Spring
-- 📫 Contate-me no email: contatogabrielcruzrodrigues@gmail.com
+- 🔭 Hoje trabalho como tecnico em TI.
+- 🌱 Estudando Java/Spring.
+- 📖 Gosto de livros técnicos.
+- 📫 Contate-me no email: contatogabrielcruzrodrigues@gmail.com.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
@@ -14,20 +15,6 @@
   <img align="center" alt="Gabriel-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gabriel-git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
-
-  ##
-  
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=gabrielcruzrodrigues&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
 
 ##
   
