@@ -3,6 +3,7 @@
 - 🔭 Hoje trabalho como tecnico em TI.
 - 🌱 Estudando Java/Spring.
 - 📖 Gosto de livros técnicos.
+- 💼 Buscando uma oportunidade como desenvolvedor backend.
 - 📫 Contate-me no email: contatogabrielcruzrodrigues@gmail.com.
 
 <div style="display: inline_block"><br>
