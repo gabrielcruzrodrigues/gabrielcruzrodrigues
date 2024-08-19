@@ -1,7 +1,7 @@
 ### Olá, eu sou o Gabriel! 👋
 
 - 💼 Atualmente trabalho como técnico em TI.
-- 🌱 Estudando Authorization Server Plus OpenId.
+- 🌱 Estudando C# | .NET
 - 📖 Gosto de livros técnicos.
 - 🔭 Buscando uma oportunidade como desenvolvedor backend.
 - 📫 Contate-me no email: contatogabrielcruzrodrigues@gmail.com.
