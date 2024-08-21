@@ -5,7 +5,7 @@
 - 💼 Atualmente trabalho como Técnico em TI.
 - 🌱 Estudando C# | .NET
 - 📖 Gosto de livros técnicos.
-- 🔭 Buscando uma oportunidade como desenvolvedor full stack. <br><br>
+- 🔭 Buscando uma oportunidade como desenvolvedor Full Stack || desenvolvedor Backend. <br><br>
   
 
 <div align="center">
