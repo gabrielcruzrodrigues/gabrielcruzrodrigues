@@ -12,6 +12,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/gabrielcruzrodrigues/gabrielcruzrodrigues/output/snake.svg" alt="Snake animation" />
+<div align="center" style="border: 0px solid cyan;">
+   <img width="100%" align="center" src="https://raw.githubusercontent.com/gabrielcruzrodrigues/gabrielcruzrodrigues/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
