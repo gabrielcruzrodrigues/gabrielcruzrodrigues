@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Gabriel and I'm a Full Stack Developer</h2>
+<h2 align="center">Hi 👋! My name is Gabriel and I'm a Backend Developer</h2>
 
 ### 🚀 Languages and Tools:</summary>
 
